@@ -5,5 +5,5 @@
 - Run the project using the command line: ng serve
 
 Credits:
-Npm Apex Chart
+Npm Apex Chart - 
 https://apexcharts.com/javascript-chart-demos/
